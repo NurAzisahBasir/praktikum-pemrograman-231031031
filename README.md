@@ -19,7 +19,8 @@
 * Latihan 3: Percabangan (Mengecek status berhak) `latihan_3.py`
 * Latihan 4: Percabangan (Mengecek bonus) `latihan_4.py`
 * UTS Ganjil: Membuat Tampilan KHS Mahasiswa `231031031-UTS-SIA.py`
+* Tugas-a3: Manipulasi String `tugas-a3.py`
+* Tugas-9-A: Membuat dan Menampilkan Biodata dengan Dictionary `tugas-9-A`
 * Tugas1-a10: Mengecek Bilangan Ganjil Genap `tugas1-a10.py`
 * Tugas2-a10: Menghitung Penjumlahan dan Selisih Waktu `tugas1-a10.py`
-* Tugas-a3: Manipulasi String `tugas-a3.py`
 
